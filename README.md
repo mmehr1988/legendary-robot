@@ -42,11 +42,17 @@ MIT
 ## GitHub
 
 Username: mmehr1988
+
+<br>
+
 Portfolio Link: [Mehdi Mehrabani](https://github.com/mmehr1988)
 
 ## E-mail
 
 tatash.my@gmail.com
+
+<br>
+
 <a href="mailto:tatash.my@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
