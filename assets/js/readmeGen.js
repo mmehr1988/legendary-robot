@@ -5,16 +5,16 @@ function badgeLicense(data) {
   let licenseOutput = ' ';
   switch (licenseType) {
     case 'Apache License 2.0':
-      licenseOutput = `<a href="https://choosealicense.com/licenses/apache-2.0"><img src="https://img.shields.io/badge/License-Apache%202.0-yellow.svg" /></a>`;
+      licenseOutput = `<a href="https://choosealicense.com/licenses/apache-2.0" target="_blank"><img src="https://img.shields.io/badge/License-Apache%202.0-yellow.svg" /></a>`;
       break;
     case 'GNU General Public License 3.0':
-      licenseOutput = `<a href="https://choosealicense.com/licenses/gpl-3.0"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /></a>`;
+      licenseOutput = `<a href="https://choosealicense.com/licenses/gpl-3.0" target="_blank"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /></a>`;
       break;
     case 'MIT':
-      licenseOutput = `<a href="https://choosealicense.com/licenses/mit"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" /></a>`;
+      licenseOutput = `<a href="https://choosealicense.com/licenses/mit" target="_blank"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" /></a>`;
       break;
     case 'Mozilla Public 2.0':
-      licenseOutput = `<a href="https://choosealicense.com/licenses/mpl-2.0"><img src="https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg" /></a>`;
+      licenseOutput = `<a href="https://choosealicense.com/licenses/mpl-2.0" target="_blank"><img src="https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg" /></a>`;
       break;
     default:
       console.log('No license chosen');
@@ -60,12 +60,12 @@ function generateREADME(data) {
   ${data.license[0]}
   
   ## GitHub
-  Username: ${data.github}
+  Username: ${data.github}<br>
   Portfolio Link: [${data.name}](https://github.com/${data.github})
   
   ## E-mail
-  ${data.email}
-  <a href="mailto:${data.email}"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  ${data.email}<br>
+  <a href="mailto:${data.email}" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   `;
 }
 module.exports = generateREADME;
