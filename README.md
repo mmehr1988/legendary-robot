@@ -39,11 +39,7 @@ To Be Done
 
 GNU General Public License 3.0
 
-## GitHub
+## Questions
 
-Username: mmehr1988<br>
-Portfolio Link: [Mehdi Mehrabani](https://github.com/mmehr1988)
-
-## E-mail
-
-tatash.my@gmail.com
+Github Portfolio Link: [Mehdi Mehrabani](https://github.com/mmehr1988)
+Email Contact: tatash.my@gmail.com

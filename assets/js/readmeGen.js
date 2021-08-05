@@ -23,9 +23,7 @@ function badgeLicense(data) {
 }
 
 function generateREADME(data) {
-  return `
-  
-  #${data.repo}
+  return `#${data.repo}
 
   ##Project Title: ${data.title}
 
@@ -59,12 +57,10 @@ function generateREADME(data) {
   ## License
   ${data.license[0]}
   
-  ## GitHub
-  Username: ${data.github}<br>
-  Portfolio Link: [${data.name}](https://github.com/${data.github})
+  ## Questions
+  Github Portfolio Link: [${data.name}](https://github.com/${data.github})
+  Email Contact: ${data.email}
   
-  ## E-mail
-  ${data.email}
   `;
 }
 module.exports = generateREADME;
