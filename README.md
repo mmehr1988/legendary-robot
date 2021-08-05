@@ -1,41 +1,52 @@
+#legendary-robot
 
-  
-  #legendary-robot
+##Project Title: README Generator
 
-  ##Project Title:README.MD Generator
+<a href="https://choosealicense.com/licenses/mit"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" /></a>
 
-  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" /></a>
+## Table of Contents:
 
-  ## Table of Contents:
-  1. [Description](#description) 
-  2. [Installation](#Installation)
-  3. [Usage](#Usage)  
-  4. [Contributing](#Contributing)
-  5. [Tests](#Tests)
-  6. [License](#License)
-  7. [GitHub](#GitHub)
-  8. [E-mail](#E-mail)
+1. [Description](#description)
+2. [Installation](#Installation)
+3. [Usage](#Usage)
+4. [Contributing](#Contributing)
+5. [Tests](#Tests)
+6. [License](#License)
+7. [GitHub](#GitHub)
+8. [E-mail](#E-mail)
 
-  ## Description
-  Auto README Generator 
+## Description
 
-  ## Installation
-  Steps Below
+To Be Done
 
-  ## Usage
-  Usage Below
+## Installation
 
-  ## Contributing
-  Contact me below
+To Be Done
 
-  ## Tests
-  Instructions below
+## Usage
 
-  ## License
-  MIT
-  
-  ## GitHub
-  exampe
-  
-  ## E-mail
-  example
+To Be Done
+
+## Contributing
+
+To Be Done
+
+## Tests
+
+To Be Done
+
+## License
+
+MIT
+
+## GitHub
+
+Username: mmehr1988
+Portfolio Link: [Mehdi Mehrabani](https://github.com/mmehr1988)
+
+## E-mail
+
+tatash.my@gmail.com
+<a href="mailto:tatash.my@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>

@@ -13,12 +13,6 @@ function init() {
 
   inquirer
     .prompt([
-      // GITHUB ------------------------------------
-      {
-        type: 'input',
-        message: 'Enter Your Github Username',
-        name: 'github',
-      },
       // REPO TITLE -------------------------------------
       {
         type: 'input',
@@ -65,8 +59,20 @@ function init() {
       {
         type: 'checkbox',
         message: 'Choose A License',
-        choices: ['Apache License 2.0', 'GNU General Public License 3.0', 'ISC License', 'MIT', 'Mozilla Public 2.0'],
+        choices: ['Apache License 2.0', 'GNU General Public License 3.0', 'MIT', 'Mozilla Public 2.0'],
         name: 'license',
+      },
+      // NAME ------------------------------------
+      {
+        type: 'input',
+        message: 'Enter Name Shown On GitHub',
+        name: 'name',
+      },
+      // GITHUB ------------------------------------
+      {
+        type: 'input',
+        message: 'Enter Your Github Username',
+        name: 'github',
       },
       // EMAIL -------------------------------------
       {
