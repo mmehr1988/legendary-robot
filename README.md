@@ -2,7 +2,7 @@
 
 ##Project Title: README Generator
 
-<a href="https://choosealicense.com/licenses/apache-2.0" target="_blank"><img src="https://img.shields.io/badge/License-Apache%202.0-yellow.svg" /></a>
+<a href="https://choosealicense.com/licenses/apache-2.0" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/License-Apache%202.0-yellow.svg" /></a>
 
 ## Table of Contents:
 
@@ -42,7 +42,7 @@ Apache License 2.0
 ## GitHub
 
 Username: mmehr1988<br>
-Portfolio Link: [Mehdi Mehrabani](https://github.com/mmehr1988){:target="\_blank" rel="noopener"}
+Portfolio Link: [Mehdi Mehrabani](https://github.com/mmehr1988)
 
 ## E-mail
 
