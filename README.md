@@ -42,7 +42,7 @@ Apache License 2.0
 ## GitHub
 
 Username: mmehr1988<br>
-Portfolio Link: [Mehdi Mehrabani](https://github.com/mmehr1988)
+Portfolio Link: [Mehdi Mehrabani](https://github.com/mmehr1988){:target="\_blank" rel="noopener"}
 
 ## E-mail
 
