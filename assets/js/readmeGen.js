@@ -36,8 +36,7 @@ function generateREADME(data) {
   4. [Contributing](#Contributing)
   5. [Tests](#Tests)
   6. [License](#License)
-  7. [GitHub](#GitHub)
-  8. [E-mail](#E-mail)
+  7. [Questions](#Questions)
 
   ## Description
   ${data.description} 
