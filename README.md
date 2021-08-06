@@ -28,11 +28,11 @@ This is a command-line application that runs with Node.js and dynamically genera
 
 ### GIF Demo of README Generator
 
-![alt text](./assets/img/contribute-bugs-img.png)
+![alt text](./assets/gif/README-Generator-GIF.gif)
 
 ## Contributing
 
-- Sharing is caring so feel free to share your bugs or update ideas by opening a Github Issue. I’ll try to respond as soon as I can. See below image for where to find the Issue page.<br><br>![alt text](./assets/img/node-install-confirmation.png)
+- Sharing is caring so feel free to share your bugs or update ideas by opening a Github Issue. I’ll try to respond as soon as I can. See below image for where to find the Issue page.<br><br>![alt text](./assets/img/contribute-bugs-img.png)
 
 ## Tests
 
