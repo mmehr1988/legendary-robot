@@ -58,7 +58,7 @@ function generateREADME(data) {
   ${data.license[0]}
   
   ## Questions
-  Github Portfolio Link: [${data.name}](https://github.com/${data.github})
+  Github Portfolio Link: [${data.name}](https://github.com/${data.github})<br>
   Email Contact: ${data.email}
   
   `;
