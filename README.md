@@ -1,6 +1,6 @@
-#legendary-robot
+# legendary-robot
 
-##Project Title: README Generator
+## Project Title: README Generator
 
 <a href="https://choosealicense.com/licenses/apache-2.0" target="_blank"><img src="https://img.shields.io/badge/License-Apache%202.0-yellow.svg" /></a>
 

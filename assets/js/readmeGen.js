@@ -23,9 +23,9 @@ function badgeLicense(data) {
 }
 
 function generateREADME(data) {
-  return `#${data.repo}
+  return `# ${data.repo}
 
-  ##Project Title: ${data.title}
+  ## Project Title: ${data.title}
 
   ${badgeLicense(data)}
 
