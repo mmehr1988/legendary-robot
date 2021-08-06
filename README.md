@@ -27,6 +27,10 @@ This is a command-line application that runs with Node.js and dynamically genera
 
 - Follow the below steps once repository is cloned and opened in VS Code. <br><br> 1. Open Terminal in VS Code <br><br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a. Shortcut = ctrl +` <br><br>2. Navigate to the “js” folder in repo. See below image for guidance. <br><br>![alt text](./assets/img/terminal-navigate-js-folder.png) <br><br>3. Once you hit enter, the application will begin to run and you will be prompted with a series of questions to answer.
 
+### GIF Demo of README Generator
+
+![alt text](./assets/gif/README-Generator-GIF.gif)
+
 ## Contributing
 
 - Sharing is caring so feel free to share your bugs or update ideas by opening a Github Issue. I’ll try to respond as soon as I can. See below image for where to find the Issue page.<br><br>![alt text](./assets/img/node-install-confirmation.png)
