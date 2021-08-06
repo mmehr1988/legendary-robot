@@ -21,7 +21,7 @@ This is a command-line application that runs with Node.js and dynamically genera
 
 ## Installation
 
-- Before cloning the repository, please ensure you have node.js installed as this is a command line application. If you do not have node.js installed, follow the steps below. <br> 1.[Node.js Download Page](https.//nodejs.org/en/download/)<br>2. After install, check with command line to ensure setup is correct.<br>a. Open your terminal<br>type "node-v"<br>If you see a version it means you have installed node.js correctly.<br>![alt text](./assets/img/img/node-install-confirmation.png)
+- Before cloning the repository, please ensure you have node.js installed as this is a command line application. If you do not have node.js installed, follow the steps below. <br><br> 1.[Node.js Download Page](https://nodejs.org/en/download/)<br><br>2. After install, check with command line to ensure setup is correct.<br><br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a. Open your terminal<br><br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b. type "node-v"<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c. If you see a version it means you have installed node.js correctly.<br><br>![alt text](./assets/img/node-install-confirmation.png)
 
 ## Usage
 
