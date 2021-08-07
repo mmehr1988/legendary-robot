@@ -28,7 +28,7 @@ This is a command-line application that runs with Node.js and dynamically genera
 
 ### GIF Demo of README Generator
 
-![alt text](./assets/gif/README-Generator-Final-GIF.gif)
+![alt text](./assets/gif/README-Generator-GIF.gif)
 
 ## Contributing
 
