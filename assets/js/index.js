@@ -1,7 +1,7 @@
 function init() {
   const inquirer = require('inquirer');
   const fs = require('fs');
-  const generate = require('./readmeGen.js');
+  const generate = require('./utils/readmeGen');
   const path = require('path');
 
   //   Type of File + Saving In Root Folder Directory
