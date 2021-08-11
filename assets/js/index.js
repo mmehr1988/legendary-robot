@@ -1,7 +1,7 @@
 function init() {
   const inquirer = require('inquirer');
   const fs = require('fs');
-  const generate = require('./utils/readmeGen');
+  const generate = require('./utils/generateMarkdown');
   const path = require('path');
 
   //   Type of File + Saving In Root Folder Directory
@@ -59,7 +59,7 @@ function init() {
       {
         type: 'checkbox',
         message: 'Choose A License',
-        choices: ['Apache License 2.0', 'GNU General Public License 3.0', 'MIT', 'Mozilla Public 2.0'],
+        choices: ['Apache License 2.0', 'GNU General Public License 3.0', 'MIT License', 'Mozilla Public 2.0'],
         name: 'license',
       },
       // NAME ------------------------------------
