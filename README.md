@@ -78,7 +78,7 @@ This is a command-line application that runs with Node.js and dynamically genera
 
   - Line Break + Indent Level 2: { 0 }{ 2 }
 
-- Explanation: When using the command line and you want to create a single line break, incorporate { 0 } at the beginning of the sentence where you want to have a line break. Check out the following link that for copy of what was used for generating this README document [link](https://github.com/mmehr1988/legendary-robot/blob/main/assets/document/legendary-robot-README.pdf).
+- Explanation: When using the command line and you want to create a single line break, incorporate { 0 } at the beginning of the sentence where you want to have a line break. Check out the following link for the text that was used for generating this README document [link](https://github.com/mmehr1988/legendary-robot/blob/main/assets/document/legendary-robot-README.pdf).
 - Please note, since I used this technique to write this document, I had to use extra space between the curly brackets and the numbers as to not trigger an indent. Therefore, when you do use this method just remove the extra space between the curly brackets and the numbers.
 
 VS Code Preview
