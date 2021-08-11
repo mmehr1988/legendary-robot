@@ -23,7 +23,7 @@ This is a command-line application that runs with Node.js and dynamically genera
 
 - Before cloning the repository, please ensure you have node.js installed as this is a command line application. If you do not have node.js installed, start with steps 1 and 2. If you have node.js installed and confirmed, you can skip steps 1 and 2 and begin on step 3.
 
-  1.  Node.js Download Page
+  1.  Node.js download page [link](https://nodejs.org/en/download/)
 
   2.  After install, check with command line to ensure setup is correct.
 
@@ -41,7 +41,7 @@ This is a command-line application that runs with Node.js and dynamically genera
 
       a. Shortcut = CTRL + `
 
-  5.  Navigate to the “js” folder in repo and install the npm "inquirer" package. See below image for guidance.
+  5.  Navigate to the “js” folder and install the npm "inquirer" package. See below image for guidance.
 
   ![alt text](./assets/img/terminal-inquirer-install.png)
 
@@ -49,17 +49,17 @@ This is a command-line application that runs with Node.js and dynamically genera
 
 ## Usage
 
-- Follow the below steps once you've completed the installation section guidelines.
+- Once you've completed the installation section guidelines, follow the below steps to run the application.
 
   1.  Open Terminal in VS Code
 
       a. Shortcut = CTRL + `
 
-  2.  Navigate to the “js” folder in repo. See below image for guidance.
+  2.  Navigate to the “js” folder and type `node index.js`. See below image for guidance.
 
   ![alt text](./assets/img/terminal-navigate-js-folder.png)
 
-  3.  Clone repository and open in VS Code. Once you hit enter, the application will begin to run and you will be prompted with a series of questions to answer.
+  3.  Once you hit enter, the application will begin to run and you will be prompted with a series of questions to answer.
 
 ### GIF Demo of README Generator
 
@@ -69,7 +69,7 @@ This is a command-line application that runs with Node.js and dynamically genera
 
 ### How To Create Markdown Lists
 
-- If you are like me, using lists to write instructions is a must. As a result, I decided to write a short summary of how to incorporate lists using line breaks when answer the prompts.
+- If you are like me, using lists to write instructions is a must. As a result, I decided to write a short summary of how to incorporate lists using line breaks when answering prompts.
 - This entire README markdown was written using this method.
 
   - Line Break: { 0 }
@@ -78,12 +78,12 @@ This is a command-line application that runs with Node.js and dynamically genera
 
   - Line Break + Indent Level 2: { 0 }{ 2 }
 
-- Explanation: When using the command line and you want to create a single line break, incorporate { 0 } at the beginning of the sentence where you want to have a line break. Check out the following link for the text that was used for generating this README document [link](https://github.com/mmehr1988/legendary-robot/blob/main/assets/document/legendary-robot-README.pdf).
+- Explanation: When using the command line and you want to create a single line break, incorporate { 0 } at the beginning of the sentence where you want to have a line break. Check out the following link for the text that was used to generate this README document [link](https://github.com/mmehr1988/legendary-robot/blob/main/assets/document/legendary-robot-README.pdf).
 - Please note, since I used this technique to write this document, I had to use extra space between the curly brackets and the numbers as to not trigger an indent. Therefore, when you do use this method just remove the extra space between the curly brackets and the numbers.
 
-VS Code Preview
+### VS Code Preview
 
-- One efficiency tips when writing README files was utilizing VS Codes preview markdown feature. This feature allows you to preview how your markdown files before having to upload to see the final output.
+- One efficiency tips when writing README files is to utilize VS Codes preview markdown feature. This feature allows you to preview how your markdown file looks before having to upload to see the final output.
 
   - Shortcut To Preview: CMD + Shift + V
 
